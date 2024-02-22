@@ -17,4 +17,5 @@ Please provide the contract address that you deployed on the Sepolia network.
 
 ## Sepolia Etherscan
 Paste the contract address into the Sepolia Etherscan and share the screenshot.
-![Uploading 截圖 2024-02-22 16.12.21.png…]()
+<img width="1440" alt="截圖 2024-02-22 16 12 21" src="https://github.com/kenny0118/2024-Spring-HW0/assets/36788441/fda87c94-fe24-4ae5-b478-f1f9240d1fdc">
+
